@@ -1,2 +1,2 @@
-# otrisid
-otris infinity developers 
+# otris
+otris
